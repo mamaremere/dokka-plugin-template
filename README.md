@@ -120,4 +120,4 @@ Please follow the [OSSRH guide](https://central.sonatype.org/pages/ossrh-guide.h
 Finally, the publication can be started with `./gradlew publish` command
 
 ### Final words
-After creating a plugin please consider sharing it with the community on [official Dokka plugins list](https://kotlin.github.io/dokka/1.5.0/community/plugins-list/)
+After creating a plugin please consider sharing it with the community on [official Dokka plugins list](https://kotlin.github.io/dokka/1.6.10/community/plugins-list/)
